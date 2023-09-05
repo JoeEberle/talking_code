@@ -1,13 +1,13 @@
 # Talking Code - Text to Speech for Your Code
 
-![Developer Logo](developer.png)
+![solution code Logo](code.png)
+
 
 ## Description
 
 Welcome to the **Talking Code** repository! This project demonstrates how to utilize a text-to-speech engine to make your code talk. By converting your code into speech, you can enhance accessibility and improve the learning experience for visually impaired individuals. This repository serves as a guide to implementing text-to-speech functionality in your programming projects.
 
-
-![solution code Logo](code.png)
+![Developer Logo](developer.png)
 
 
 ## Features
