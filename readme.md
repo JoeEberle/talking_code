@@ -38,4 +38,4 @@ To get started with the **Talking Code** solution repository, follow these steps
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](pca.png)  <br>![additional_image](talking_code.png)  <br>
+    ## Deliverables or Figures![additional_image](pca.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>![additional_image](talking_code.png)  <br>
