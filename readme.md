@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Talking Code - Application for building sophisticated text to speech 
 Application for building sophisticated text to speech 
 
@@ -9,8 +11,6 @@ Welcome to the solution **Talking Code** - an example for your projects
 Application for building sophisticated text to speech 
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
