@@ -37,7 +37,7 @@ To get started with the **Talking Code** solution repository, follow these steps
 - **Educational** - Includes educational dialogue and background material
     
 ## Deliverables or Figures
- ![additional_image](pca.png)  <br>![additional_image](talking_code.png)  <br>
+ ![additional_image](talking_code.png)  <br>
     
 
 ## Github    
