@@ -40,11 +40,8 @@ To get started with the **Talking Code** solution repository, follow these steps
  ![additional_image](talking_code.png)  <br>![additional_image](text_to_speach.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
