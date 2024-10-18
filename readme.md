@@ -3,7 +3,7 @@ This data science solution will establish a **text to speech engine**.  The text
 
 The **pyttsx3 library** is a text-to-speech conversion library in Python that works offline and is compatible with both Python 2 and 3. It allows developers to convert text data into spoken words using various speech engines, such as SAPI5 on Windows, NSSpeechSynthesizer on macOS, and espeak on Linux. This library is commonly used for creating applications that require vocal output, such as accessibility tools, voice assistants, and educational software.
 
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
