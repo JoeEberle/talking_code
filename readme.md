@@ -1,4 +1,7 @@
-![Image image_filename](solution_sign.png)# Talking Code - Application for building sophisticated text to speech ![Image image_filename](code.png)
+![Image image_filename](solution_sign.png)
+    # Talking Code 
+    ## Application for building sophisticated text to speech 
+    ![Image image_filename](code.png)
 This data science solution will establish a **text to speech engine**.  The text to speech engine will allow you to have your code talk to the users. it will make your code easier to understand and use.  
 
 The **pyttsx3 library** is a text-to-speech conversion library in Python that works offline and is compatible with both Python 2 and 3. It allows developers to convert text data into spoken words using various speech engines, such as SAPI5 on Windows, NSSpeechSynthesizer on macOS, and espeak on Linux. This library is commonly used for creating applications that require vocal output, such as accessibility tools, voice assistants, and educational software.
@@ -13,12 +16,15 @@ To get started with the **Talking Code** solution repository, follow these steps
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    
+    ## Getting Started
 ## Solution Features
+
 - Easy to understand and use  
 - Easily Configurable 
 - Quickly start your project with pre-built templates
 - Its Fast and Automated
+- Saves You Time 
+
 
 ## Notebook Features
 
