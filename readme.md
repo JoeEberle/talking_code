@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Talking Code 
-    ## Application for building sophisticated text to speech 
+    
+# Talking Code 
+
+## Application for building sophisticated text to speech 
+
     ![Image image_filename](code.png)
 This data science solution will establish a **text to speech engine**.  The text to speech engine will allow you to have your code talk to the users. it will make your code easier to understand and use.  
 
@@ -26,9 +29,9 @@ To get started with the **Talking Code** solution repository, follow these steps
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Talking Code** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -38,6 +41,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](talking_code.png)  <br>![additional_image](text_to_speach.png)  <br>
