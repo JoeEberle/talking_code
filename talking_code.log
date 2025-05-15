@@ -1,13 +1,13 @@
-2025-05-15 19:45:16,470 - INFO - START talking_code =============================================
-2025-05-15 19:45:16,471 - INFO - START talking_code Start Time = 2025-05-15 19:45:16
-2025-05-15 19:45:16,471 - INFO - talking_code Step 0 - Initialize the configuration file parser
-2025-05-15 19:45:16,547 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
-2025-05-15 19:45:16,547 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\Lib\site-packages\comtypes\gen'
-2025-05-15 19:45:22,500 - INFO - Process talking_code Step 0 - Initializing and starting Process.
-2025-05-15 19:45:27,551 - INFO - Process talking_code Step 1 - Initialize The Text to Speech Engine.
-2025-05-15 19:45:42,771 - INFO - Process talking_code Step 3 - If speaking occurred then this process was successfull - End Process
-2025-05-15 19:45:42,795 - INFO - PERFORMANCE talking_code The total process duration was:26.33
-2025-05-15 19:45:42,795 - INFO - PERFORMANCE talking_code Stop Time = 2025-05-15 19:45:42
-2025-05-15 19:45:42,795 - INFO - PERFORMANCE talking_code Low process duration less than 3 minutes:26.33
-2025-05-15 19:45:42,795 - INFO - PERFORMANCE talking_code Performance optimization is optional
-2025-05-15 19:45:42,795 - INFO - END talking_code =============================================
+2025-05-15 19:54:37,505 - INFO - START talking_code =============================================
+2025-05-15 19:54:37,506 - INFO - START talking_code Start Time = 2025-05-15 19:54:37
+2025-05-15 19:54:37,506 - INFO - talking_code Step 0 - Initialize the configuration file parser
+2025-05-15 19:54:37,598 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-15 19:54:37,598 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\Lib\site-packages\comtypes\gen'
+2025-05-15 19:54:43,560 - INFO - Process talking_code Step 0 - Initializing and starting Process.
+2025-05-15 19:54:48,572 - INFO - Process talking_code Step 1 - Initialize The Text to Speech Engine.
+2025-05-15 19:55:03,739 - INFO - Process talking_code Step 3 - If speaking occurred then this process was successfull - End Process
+2025-05-15 19:55:03,755 - INFO - PERFORMANCE talking_code The total process duration was:26.25
+2025-05-15 19:55:03,755 - INFO - PERFORMANCE talking_code Stop Time = 2025-05-15 19:55:03
+2025-05-15 19:55:03,755 - INFO - PERFORMANCE talking_code Low process duration less than 3 minutes:26.25
+2025-05-15 19:55:03,755 - INFO - PERFORMANCE talking_code Performance optimization is optional
+2025-05-15 19:55:03,755 - INFO - END talking_code =============================================
