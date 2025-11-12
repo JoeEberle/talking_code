@@ -4,11 +4,7 @@
 
 ## Application for building sophisticated text to speech 
 
-    
-![Solution](code.png)
-
-    
-
+    ![Image image_filename](code.png)
 
 # 🗣️ Text-to-Speech for Your AI assistant or ANY Python Code
 
@@ -1161,13 +1157,7 @@ These libraries offer modern, flexible, and in many cases, more powerful approac
 ![Image](sample.png)
 
 <br>
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
